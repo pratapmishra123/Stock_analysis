@@ -87,3 +87,6 @@ Contributions are welcome. Feel free to fork the repository and submit a pull re
 
 This project is available for educational and personal use.
 
+
+
+(Renamed dashboard to index.html)
